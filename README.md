@@ -28,12 +28,6 @@ An open-access, citation-grounded encyclopedia and interactive compliance platfo
 
 ---
 
-### 📬 Connect With Me
-
-* **Website:** [PrivacyLawForAll.free](https://privacylawforall.sbsrijeet.workers.dev/)
-* **Support the Platform:** [Buy Me a Coffee](https://buymeacoffee.com/sbsrijeet)
-
-
 ---
 
 ### 🛠️ Featured Architecture: [Enterprise Relational Normalization & Forensic SQL Engine](https://github.com/sbsrijeet-dev/enterprise-relational-engine)
@@ -43,3 +37,10 @@ An open-access, citation-grounded encyclopedia and interactive compliance platfo
 * 🔒 **Offline Zero-Trust Privacy Airlock:** Local cryptographic container (AES-256 / PBKDF2-480k) with 1:1 deterministic PII pseudonymization preventing external data exfiltration.
 * ⚖️ **Zero Float Drift Accounting:** Multi-currency double-entry ledger balancing to exact $0.00 mathematical parity using 64-bit integer minor-unit math.
 * 🛡️ **Forensic Verification Battery:** Automated 143-check invariant harness executing PRAGMA integrity, DAG referential audits, AML structuring quarantines, and byte-level line ending validation.
+
+---
+
+### 📬 Connect With Me
+
+* **Website:** [PrivacyLawForAll.free](https://privacylawforall.sbsrijeet.workers.dev/)
+* **Support the Platform:** [Buy Me a Coffee](https://buymeacoffee.com/sbsrijeet)
